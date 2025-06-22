@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ookamyabyss/ookamyabyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Loading bar -->
+  <img src="https://i.imgur.com/6VJAtRo.gif" width="100%" />
 
-Here are some ideas to get you started:
+  <!-- Nome em imagem -->
+  <img src="https://your-image-url.com/rafael-name.png" width="500px" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Linha de caderno -->
+  <img src="https://i.imgur.com/3mSdf5k.png" width="300px" />
+
+  <!-- Subtítulo -->
+  <p><strong>Bacharel em Sistemas de Informação</strong><br>
+  <em>Universidade do Estado da Bahia (UNEB)</em></p>
+
+</div>
